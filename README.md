@@ -19,7 +19,6 @@ hookfunction
 replaceclosure
 getthreadidentity
 getexecutioncontext
-getmodules
 getmodulescripts
 dumpstring
 firetouchinterest
@@ -57,10 +56,12 @@ HttpGet
 <details>
 <summary>File Library</summary>
 i'm too lazy to write this out :p
+basically most of the file library functions
 </details>
 <details>
 <summary>Bit / Bit32 Library</summary>
 i'm too lazy to write this out :p
+basically most of the bit functions
 </details>
 
 <details open>
