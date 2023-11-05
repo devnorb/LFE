@@ -19,6 +19,7 @@ getthreadidentity
 getexecutioncontext
 firetouchinterest
 clonefunction
+dumpstring
 isrbxactive
 getnilinstances
 getinstances
@@ -49,9 +50,11 @@ HttpGet
 
 <details>
 <summary>File Library</summary>
+i'm too lazy to write this out :p
 </details>
 <details>
 <summary>Bit / Bit32 Library</summary>
+i'm too lazy to write this out :p
 </details>
 
 <details open>
