@@ -15,11 +15,15 @@ getmodules
 newcclosure
 islclosure
 newlclosure
+hookfunction
+replaceclosure
 getthreadidentity
 getexecutioncontext
+getmodules
+getmodulescripts
+dumpstring
 firetouchinterest
 clonefunction
-dumpstring
 isrbxactive
 getnilinstances
 getinstances
@@ -29,6 +33,8 @@ isreadonly
 getpropvalue
 setpropvalue
 getsenv
+getloadedmodules
+hookfunction
 getmenv
 isrobloxscript
 getspecialinfo
