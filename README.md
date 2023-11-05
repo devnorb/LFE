@@ -1,7 +1,9 @@
 # LFE
 LFE, short for lua function extender, is a project that aims to give more function support to executors which have less functions.
 
-note: if the program <strong>cannot</strong> find the function, it will use the lua implemented function.
+note: if the program <strong>cannot</strong> find the c type function, it will use the lua implemented function.\
+it tries to find the c types first because c types better and prob won't break unlike some lua functions.
+
 <strong> ! SCRIPTS MAY OR MAY NOT WORK WITH THIS. ! </strong>
 
 
