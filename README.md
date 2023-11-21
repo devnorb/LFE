@@ -55,11 +55,7 @@ getscripthash
 HttpGet
 </details>
 
-<details>
-<summary>File Library</summary>
-i'm too lazy to write this out :p
-basically most of the file library functions
-</details>
+i just realized file library no work >:C fuck
 <details>
 <summary>Bit / Bit32 Library</summary>
 i'm too lazy to write this out :p
