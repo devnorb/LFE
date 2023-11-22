@@ -12,6 +12,7 @@ it tries to find the c types first because c types better and prob won't break u
 <details open>
 <summary>Functions</summary>
 <br>
+information
 getscripts
 getmodules
 newcclosure
