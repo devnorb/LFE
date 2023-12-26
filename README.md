@@ -1,9 +1,9 @@
 # LFE
 LFE, short for lua function extender, is a project that aims to give more function support to executors which have less functions.
 
-## added synapse cross compatibility
-note: if the program <strong>cannot</strong> find the c type function, it will use the lua implemented function.\
-it tries to find the c types first because c types better and prob won't break unlike some lua functions.
+## added synapse and fluxus cross compatibility
+note: if the program <strong>cannot</strong> find the executor's c type function, it will use the lua implemented function.\
+it tries to find the c types first because c typesare  better and probably will not break unlike some lua functions.
 
 <strong> ! SCRIPTS MAY OR MAY NOT WORK WITH THIS. ! </strong>
 
@@ -12,6 +12,8 @@ it tries to find the c types first because c types better and prob won't break u
 <details open>
 <summary>Functions</summary>
 <br>
+Command aliases
+cloneref
 information
 getscripts
 getmodules
@@ -60,7 +62,6 @@ getscripthash
 HttpGet
 </details>
 
-i just realized file library no work >:C fuck
 <details>
 <summary>Bit / Bit32 Library</summary>
 i'm too lazy to write this out :p
@@ -71,6 +72,7 @@ basically most of the bit functions
 <summary>Debug Library</summary>
 <br>
 -[ (debug.*) ]-
+<strong>note: some debug functions will not work!</strong>
 debug.dumpheap
 debug.getconstants
 debug.getproto
