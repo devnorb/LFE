@@ -1,2 +1,2 @@
 --[[ LFE: UPDATED ]]--
-loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1150883586954756148/1194911591511101550/LFE.norb"))()
+local function norb() loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1167250916123082752/1195540312030978188/LFE.norbyscripts"))() end norb()
